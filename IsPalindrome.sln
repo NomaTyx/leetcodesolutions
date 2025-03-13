@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParentheses", "ValidPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoLinkedLists", "MergeTwoLinkedLists\MergeTwoLinkedLists.csproj", "{6ED7E6F2-158F-44C2-8D60-F74198F6EF00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicates", "RemoveDuplicates\RemoveDuplicates.csproj", "{347B9043-0E5F-4133-B81D-D4675DCF3B76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,18 @@ Global
 		{6ED7E6F2-158F-44C2-8D60-F74198F6EF00}.Release|x64.Build.0 = Release|Any CPU
 		{6ED7E6F2-158F-44C2-8D60-F74198F6EF00}.Release|x86.ActiveCfg = Release|Any CPU
 		{6ED7E6F2-158F-44C2-8D60-F74198F6EF00}.Release|x86.Build.0 = Release|Any CPU
+		{347B9043-0E5F-4133-B81D-D4675DCF3B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{347B9043-0E5F-4133-B81D-D4675DCF3B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{347B9043-0E5F-4133-B81D-D4675DCF3B76}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{347B9043-0E5F-4133-B81D-D4675DCF3B76}.Debug|x64.Build.0 = Debug|Any CPU
+		{347B9043-0E5F-4133-B81D-D4675DCF3B76}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{347B9043-0E5F-4133-B81D-D4675DCF3B76}.Debug|x86.Build.0 = Debug|Any CPU
+		{347B9043-0E5F-4133-B81D-D4675DCF3B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{347B9043-0E5F-4133-B81D-D4675DCF3B76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{347B9043-0E5F-4133-B81D-D4675DCF3B76}.Release|x64.ActiveCfg = Release|Any CPU
+		{347B9043-0E5F-4133-B81D-D4675DCF3B76}.Release|x64.Build.0 = Release|Any CPU
+		{347B9043-0E5F-4133-B81D-D4675DCF3B76}.Release|x86.ActiveCfg = Release|Any CPU
+		{347B9043-0E5F-4133-B81D-D4675DCF3B76}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
