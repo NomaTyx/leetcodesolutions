@@ -3,15 +3,18 @@
 Console.WriteLine(Reverse(-2147483648));
 
 
-int Reverse(int x) {
+int Reverse(int x)
+{
     if (x == int.MinValue) return 0;
-    
+
     int unsignedNum = Math.Abs(x);
 
     int flippednum = 0;
 
-    while(unsignedNum > 0) {
-        if (flippednum > int.MaxValue / 10) { 
+    while (unsignedNum > 0)
+    {
+        if (flippednum > int.MaxValue / 10)
+        {
             return 0;
         }
         flippednum *= 10;
@@ -19,9 +22,10 @@ int Reverse(int x) {
         unsignedNum /= 10;
     }
 
-    if(flippednum == int.MaxValue) {
+    if (flippednum == int.MaxValue)
+    {
         return 0;
     }
 
-    return x < 0? -flippednum : flippednum; 
+    return x < 0 ? -flippednum : flippednum;
 }
