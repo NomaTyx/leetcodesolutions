@@ -17,10 +17,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveElement", "RemoveElem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInt", "RomanToInt\RomanToInt.csproj", "{C714DD4E-EE9D-4E3A-B541-A8A99A0A77E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntToRoman", "IntToRoman\IntToRoman.csproj", "{BE9375E3-8EF9-4FB9-88B5-726B4148DA63}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxArea", "MaxArea\MaxArea.csproj", "{5883C8EA-B6E7-4061-A6A6-9B196FC257C3}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{16F5028C-44CA-4518-8655-D4A80C22B9DD}"
 EndProject
 Global
