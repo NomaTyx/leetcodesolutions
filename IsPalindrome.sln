@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxArea", "MaxArea\MaxArea.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{16F5028C-44CA-4518-8655-D4A80C22B9DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstOccurrence", "FirstOccurrence\FirstOccurrence.csproj", "{506F6B07-8E7C-4D91-B160-EF7D9821CDC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,18 @@ Global
 		{16F5028C-44CA-4518-8655-D4A80C22B9DD}.Release|x64.Build.0 = Release|Any CPU
 		{16F5028C-44CA-4518-8655-D4A80C22B9DD}.Release|x86.ActiveCfg = Release|Any CPU
 		{16F5028C-44CA-4518-8655-D4A80C22B9DD}.Release|x86.Build.0 = Release|Any CPU
+		{506F6B07-8E7C-4D91-B160-EF7D9821CDC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{506F6B07-8E7C-4D91-B160-EF7D9821CDC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{506F6B07-8E7C-4D91-B160-EF7D9821CDC6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{506F6B07-8E7C-4D91-B160-EF7D9821CDC6}.Debug|x64.Build.0 = Debug|Any CPU
+		{506F6B07-8E7C-4D91-B160-EF7D9821CDC6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{506F6B07-8E7C-4D91-B160-EF7D9821CDC6}.Debug|x86.Build.0 = Debug|Any CPU
+		{506F6B07-8E7C-4D91-B160-EF7D9821CDC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{506F6B07-8E7C-4D91-B160-EF7D9821CDC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{506F6B07-8E7C-4D91-B160-EF7D9821CDC6}.Release|x64.ActiveCfg = Release|Any CPU
+		{506F6B07-8E7C-4D91-B160-EF7D9821CDC6}.Release|x64.Build.0 = Release|Any CPU
+		{506F6B07-8E7C-4D91-B160-EF7D9821CDC6}.Release|x86.ActiveCfg = Release|Any CPU
+		{506F6B07-8E7C-4D91-B160-EF7D9821CDC6}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
