@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstOccurrence", "FirstOcc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInsert", "SearchInsert\SearchInsert.csproj", "{9A521F4A-E06F-41FB-B02B-5E3D3A0F079A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{AF455B01-F3A9-41AB-AFAE-5AB9CECF183E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,18 @@ Global
 		{9A521F4A-E06F-41FB-B02B-5E3D3A0F079A}.Release|x64.Build.0 = Release|Any CPU
 		{9A521F4A-E06F-41FB-B02B-5E3D3A0F079A}.Release|x86.ActiveCfg = Release|Any CPU
 		{9A521F4A-E06F-41FB-B02B-5E3D3A0F079A}.Release|x86.Build.0 = Release|Any CPU
+		{AF455B01-F3A9-41AB-AFAE-5AB9CECF183E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF455B01-F3A9-41AB-AFAE-5AB9CECF183E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF455B01-F3A9-41AB-AFAE-5AB9CECF183E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AF455B01-F3A9-41AB-AFAE-5AB9CECF183E}.Debug|x64.Build.0 = Debug|Any CPU
+		{AF455B01-F3A9-41AB-AFAE-5AB9CECF183E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AF455B01-F3A9-41AB-AFAE-5AB9CECF183E}.Debug|x86.Build.0 = Debug|Any CPU
+		{AF455B01-F3A9-41AB-AFAE-5AB9CECF183E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF455B01-F3A9-41AB-AFAE-5AB9CECF183E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF455B01-F3A9-41AB-AFAE-5AB9CECF183E}.Release|x64.ActiveCfg = Release|Any CPU
+		{AF455B01-F3A9-41AB-AFAE-5AB9CECF183E}.Release|x64.Build.0 = Release|Any CPU
+		{AF455B01-F3A9-41AB-AFAE-5AB9CECF183E}.Release|x86.ActiveCfg = Release|Any CPU
+		{AF455B01-F3A9-41AB-AFAE-5AB9CECF183E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

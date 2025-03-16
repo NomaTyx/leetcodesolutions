@@ -1,4 +1,4 @@
-﻿//this is just a binary search. leetcode easy.
+﻿//this is just a binary search. leetcode easy
 int SearchInsert(int[] nums, int target)
 {
     int min = 0;
