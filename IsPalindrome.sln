@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySqrt", "MySqrt\MySqrt.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbStairs", "ClimbStairs\ClimbStairs.csproj", "{9ECFF0E3-B129-424D-87AA-6C34B6EFB666}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteDuplicates", "DeleteDuplicates\DeleteDuplicates.csproj", "{A6A8AAF0-E621-483C-AB86-D89400317BA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,18 @@ Global
 		{9ECFF0E3-B129-424D-87AA-6C34B6EFB666}.Release|x64.Build.0 = Release|Any CPU
 		{9ECFF0E3-B129-424D-87AA-6C34B6EFB666}.Release|x86.ActiveCfg = Release|Any CPU
 		{9ECFF0E3-B129-424D-87AA-6C34B6EFB666}.Release|x86.Build.0 = Release|Any CPU
+		{A6A8AAF0-E621-483C-AB86-D89400317BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A8AAF0-E621-483C-AB86-D89400317BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A8AAF0-E621-483C-AB86-D89400317BA9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A6A8AAF0-E621-483C-AB86-D89400317BA9}.Debug|x64.Build.0 = Debug|Any CPU
+		{A6A8AAF0-E621-483C-AB86-D89400317BA9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A6A8AAF0-E621-483C-AB86-D89400317BA9}.Debug|x86.Build.0 = Debug|Any CPU
+		{A6A8AAF0-E621-483C-AB86-D89400317BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A8AAF0-E621-483C-AB86-D89400317BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6A8AAF0-E621-483C-AB86-D89400317BA9}.Release|x64.ActiveCfg = Release|Any CPU
+		{A6A8AAF0-E621-483C-AB86-D89400317BA9}.Release|x64.Build.0 = Release|Any CPU
+		{A6A8AAF0-E621-483C-AB86-D89400317BA9}.Release|x86.ActiveCfg = Release|Any CPU
+		{A6A8AAF0-E621-483C-AB86-D89400317BA9}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
