@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge", "Merge\Merge.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsScramble", "IsScramble\IsScramble.csproj", "{A1BCE15C-C902-498D-BC04-D282EEA39C2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeInorderTraversal", "BinaryTreeInorderTraversal\BinaryTreeInorderTraversal.csproj", "{AF9B091C-2151-43D7-AF47-FB443C4A7145}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -279,6 +281,18 @@ Global
 		{A1BCE15C-C902-498D-BC04-D282EEA39C2C}.Release|x64.Build.0 = Release|Any CPU
 		{A1BCE15C-C902-498D-BC04-D282EEA39C2C}.Release|x86.ActiveCfg = Release|Any CPU
 		{A1BCE15C-C902-498D-BC04-D282EEA39C2C}.Release|x86.Build.0 = Release|Any CPU
+		{AF9B091C-2151-43D7-AF47-FB443C4A7145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9B091C-2151-43D7-AF47-FB443C4A7145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9B091C-2151-43D7-AF47-FB443C4A7145}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AF9B091C-2151-43D7-AF47-FB443C4A7145}.Debug|x64.Build.0 = Debug|Any CPU
+		{AF9B091C-2151-43D7-AF47-FB443C4A7145}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AF9B091C-2151-43D7-AF47-FB443C4A7145}.Debug|x86.Build.0 = Debug|Any CPU
+		{AF9B091C-2151-43D7-AF47-FB443C4A7145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9B091C-2151-43D7-AF47-FB443C4A7145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF9B091C-2151-43D7-AF47-FB443C4A7145}.Release|x64.ActiveCfg = Release|Any CPU
+		{AF9B091C-2151-43D7-AF47-FB443C4A7145}.Release|x64.Build.0 = Release|Any CPU
+		{AF9B091C-2151-43D7-AF47-FB443C4A7145}.Release|x86.ActiveCfg = Release|Any CPU
+		{AF9B091C-2151-43D7-AF47-FB443C4A7145}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
